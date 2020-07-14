@@ -1,0 +1,17 @@
+{
+  "name": "threading-op",
+  "version": "1.0.0",
+  "description": "Introduces equivalent of clj/cljs -> and ->> macro",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@babel/preset-env": "^7.10.4",
+    "babel-jest": "^26.1.0",
+    "jest": "^26.1.0"
+  }
+}
